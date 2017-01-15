@@ -1,0 +1,7 @@
+{
+  "name": "jobsearch",
+  "short_name": "jobsearch",
+  "description": "Job Search Application",
+  "start_url": "/",
+  "display": "standalone"
+}
